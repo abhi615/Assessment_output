@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-To insatll node_modules `npm install`
+To install node_modules `npm install`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
